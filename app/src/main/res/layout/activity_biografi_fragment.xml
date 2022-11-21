@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Kehidupan Pribadi Ir. Soekarno"
+        android:text="Kehidupan Pribadi Ir. Soekarno0"
         android:textStyle="bold" />
 
     <TextView
