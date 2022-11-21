@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_biodata_fragment.xml" value="0.33" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_biografi_fragment.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_fragent_biodata.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_fragment.xml" value="0.22" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_gusdur.xml" value="0.20253164556962025" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_habbie.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_jokowi.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_megawati.xml" value="0.25" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_sby.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_soeharto.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_soeharto_fragment_biodata.xml" value="0.26403985507246375" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/activity_soekarno.xml" value="0.33" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/biodata_fragment.xml" value="0.1" />
+        <entry key="..\:/Pemograman Mobile/Tugas Evaluasi/PRESIDENINDONESIA/app/src/main/res/layout/item_tokoh.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

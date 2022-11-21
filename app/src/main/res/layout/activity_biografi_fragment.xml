@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BiografiFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kehidupan Pribadi Ir. Soekarno"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        android:justificationMode="inter_word"
+        android:text="Ir. Soekarno atau akrab dipanggil Bung Karno lahir pada 6 Juni 1901 di Surabaya, Jawa Timur dengan nama kecilnya Kusno Sosrodihardjo dan wafat pada 21 Juni 1970 di Jakarta. Bung Karno adalah anak dari pasangan Raden Soekemi Sosrodihardjo dan Ida Ayu Nyoman Rai. Karena sakit-sakitan, Soekarno kecil dirawat kakaknya bernama Raden Hardjodikromo di Tulungagung. Soekarno kembali tinggal dengan bapak dan ibunya pada 1909 di Mojokerto.
+Di Mojokerto itulah sang ayah ditugaskan sebagai kepala Eerste Inlandse School dan Soekarno pun sekolah ditempat itu. Sejak tinggal kembali bersama orang tuanya,  Soekarno mengganti namanya dari Kusno menjadi Soekarno agar dirinya tidak sakit-sakitan lagi dan dapat tumbuh dengan sehat.  Sejak kecil Soekarno sudah menjadi anak yang berprestasi bahkan mampu menguasai banyak bahasa. Itulah sebabnya kecerdasan Soekarno dikenal oleh dunia." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Perjalanan Politik Ir. Soekarno"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:padding="4dp"
+        android:layout_height="wrap_content"
+        android:justificationMode="inter_word"
+        android:text="Berbicara soal biografi Ir.Soekarno tidak lengkap rasanya jika tidak membahas kiprahnya di dunia politik yang sangat luar biasa. Ir. Soekarno bahkan sudah terjun ke dunia politik sejak usianya masih sangat muda. Soekarno terkenal pertama kali pada tahun 1915 saat menjadi anggota Jong Java Cabang Surabaya. Kebanyak organisasi di Indonesia menurut Soekarno masihlah Jawa Sentris yang hanya memikirkan kebudayaan saja.Hal itulah yang membuat Soekarno perlu menjawab tantangan tersebut. Karena kesedihannya tersebut Soekarno pun memberikan pidato menggunakan bahasa ngoko (bahasa Jawa yang kasar) dalam rapat pleno tahunan Jong Java di Surabaya. Tak berselang lama, setelah sebulan rapat tersebut, Soekarno mencetuskan gagasan untuk membuat surat kabar Jong Java menggunakan bahasa Melayu, bukan bahasa Belanda.
+
+Soekarno kemudian mendirikan Algemeene Studie (ASC) di Bandung pada tahun 1926 yang merupakan hasil inspirasi dari Dr. Soetomo di Indonesische Studie Club. Organisasi ASC inilah yang menjadi cikal bakal berdirinya partai besar di Indonesia, Partai Nasional Indonesia yang lahir tahun 1927. Berkat aktif di organisasi PNI itulah Soekarno beberapa ditangkap Belanda karena dianggap membahayakan pemerintah kolonial.
+
+Tanggal 29 Desember 1929 Soekarno ditangkap di Yogyakarta untuk dipindahkan ke penjara Banceuy di Bandung. Kemudian pada tahun 1930 dipindahkan ke penjara Sukamiskin dan di tahun ini pula Soekarno mengeluarkan pledoi Indonesia Menggugat yang sangat fenomenal saat itu sampai akhirnya dibebaskan pada 31 Desember 1931. Setelah bebas dari penjara, tahun 1932 SOekarno bergabung dalam Partai Indonesia (Partindo) yang masih pecahan PNI karena saat itu PNI dibubarkan dan dinyatakan dilarang oleh Belanda.
+
+Namun keaktifannya di Partino kembali mengantarkan ke penjara pada tahun 1933 di pengasingan Folders karena pergerakan yang bahaya bagi Belanda. Karena pengasingannya yang cukup lama dan sangat jauh hampir membuat tokoh-tokoh nasional Indonesia yang lainnya melupakan keberadaan dan keterlibatan Soekarno. Hal itu tidak membuatnya menyerah dan Soekarno terus mengirim surat kepada Ahmad Hasan, seorang Guru Persatuan Islam.
+
+Tahun 1938 Soekarno kemudian diasingkan ke Provinsi Bengkulu sampai tahun 1942. Pada masa penjajahan Jepang tahun 1942 Soekarno baru kembali dibebaskan. Setelah melalui perjalanan panjang,  tahun 1943 perdana menteri Jepang, Hideki Toja mengundah Soekarno, Muhammad Hatt, dan Ki Bagoes Hadikoesoemo yang kemudian disambut hangat kehadirannya oleh Kaisar Hirohito. Mereka bertiga telah dianggap sebagai keluarga kaisar Jepang dengan diberikannya Bintang Kekaisaran (Ratna Suci).
+
+Sejak masa penjajahan Jepang itulah banyak muncul organisasi, seperti Jawa Hokokai, BPUPKI, Pusat Tenaga Rakyat (Putera) hingga PPKI dengan tokoh-tokoh utama yakni Soekarno, K.H Mas Mansyur, Ki. Hajar Dewantara, dan tokoh lainnya yang aktif di organisasi pergerakan nasional. Akhirnya tokoh-tokoh pergerakan nasional tersebut melakukan  buy clenbuterol bekerjasama dengan pemerintah jepang untuk kemerdekaan Indonesia. Meskipun tetap ada yang melakukan gerakan bawah tanah seperti Amir Sjarifuddin dan Sutan Syahrir yang tidak sepenuhnya percaya pada Jepang dan menganggapnya berbahaya dan fasis.
+
+Selama perjuangan yang panjang akhirnya Soekarno dan Moh. Hatta memproklamasikan kemerdekaan RI pada 17 Agustus 1945 yang didesak oleh kaum muda dan sempat diculik ke Rengasdengklok. Sejak itulah Soekarno diangkat menjadi Presiden pertama Indonesia dan mulai dikenal sebagai Sang Proklamator yang didampingi Mohammad Hatta sebagai wakilnya. Sebelumnya pada 1 Juni 1945 dalam sidang BPUPKI Soekarno sudah mengemukakan gagasan tentang dasar Negara, yakni Pancasila yang sekarang masih menjadi dasar Negara kita.
+
+Setelah berhasil merumuskan Pancasila, Soekarno berupaya menyatukan nusantara menjadi Negara Kesatuan Republik Indonesia. Bahkan bangsa-bangsa di Asia, Afrika, dan Amerika Latin juga sempat diusahakan Soekarno dalam Konferensi Asia Afrika tahun 1955 di Bandung hingga akhirnya berkembang menjadi Gerakan Non Blok. Berkat jasa Soekarno lah banyak Negara kawasan Asia Afrika yang mereka, meskipun ada pula yang konflik berkepanjangan karena ketidakadilan di negaranya. Itulah sebabnya Soekarno dikenal dalam menjalankan politik bebas aktif dunia Internasional.
+
+Atas kejayaan perjuangannya untuk Indonesia, Ir Soekarno juga mengalami masa jatuh dalam politiknya setelah Wakil Presiden Mohammad Hatta akhirnya memutuskan untuk mengundurkan diri dan memisahkan diri dari Soekrano tahun 1956. Selain itu banyak pula pemberontakan separatis yang terjadi di beberapa daerah di Indonesia. Berdasarkan catatan sejarah, puncak pemberontakan tersebut adalah saat terjadinya pemberontakan yang dikenal dengan G30S PKI yang meluluhlantakan masyarakat Indonesia Saat itu.
+
+Karena peristiwa itulah Soekarno mendapat pengucilan dari presiden yang menggantikan dirinya, yakni Soeharto. Karena usianya yang sudah tua dan sering sakit-sakitan akhirnya Soekarno wafat di Jakarta, tepatnya Wisma Yaso pada tanggal 21 Juni 1970. Kemudian jasadnya dimakamkan di Blitar dan menjadi ikon kota Blitar hingga saat ini. Makam Soekarno Pun selalu ramai peziarah dan wisatawan yang datang di hari-hari tertentu dan sangat ramai saat haul Sang Proklamator tersebut."
+        />
+
+</LinearLayout>

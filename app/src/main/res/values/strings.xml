@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PRESIDEN INDONESIA</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Bacharuddin Jusuf Habibie</item>
+        <item>Abdurrahman Wahid</item>
+        <item>Megawati Soekarnoputri</item>
+        <item>Susilo Bambang Yudhoyono</item>
+        <item>Joko Widodo</item>
+
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soeharto</item>
+        <item>@drawable/jusuf</item>
+        <item>@drawable/gusdur</item>
+        <item>@drawable/megawati</item>
+        <item>@drawable/susilobambang</item>
+        <item>@drawable/jokowi</item>
+    </array>
+</resources>
